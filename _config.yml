@@ -1,0 +1,14 @@
+layout_spectrum: 0.9337016546633095
+typography_spectrum: 0.7227779477834702
+color:
+  brandStrength: 0.674873000010848
+  lightness: 0.027818723116070032
+  saturation: 0.7220812537707388
+  rhythmicContrast: 0.04544047638773918
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: blogtest2
